@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/interactive-wireframe-prototype-19413-19422/figma_wireframe_frontend"
+}
